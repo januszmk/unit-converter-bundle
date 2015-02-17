@@ -1,0 +1,17 @@
+{
+  "name": "januszmk/unit-converter-bundle",
+  "description": "This bundle is for unit conversion",
+  "license": "MIT",
+  "autors": [
+    {
+      "name": "Janusz Mocek"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+    "psr-4": { "Polcode\\UnitConverterBundle\\": "" }
+  },
+  "target-dir": "Polcode/UnitConverterBundle"
+}
