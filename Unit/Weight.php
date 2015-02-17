@@ -2,7 +2,7 @@
 
 namespace Polcode\UnitConverterBundle\Unit;
 
-class Mass extends BaseImperialUnit
+class Weight extends BaseImperialUnit
 {
     protected function getImperialUnits()
     {
